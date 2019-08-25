@@ -1,6 +1,6 @@
-# agin_gaz
+# Agil gaz
 
-Mobile Application for Agil Tunisie.
+Mobile Application design for Agil Tunisie.
 
 ## Getting Started
 
