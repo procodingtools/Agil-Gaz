@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751171983315",
+    "firebase_url": "https://agil-gas.firebaseio.com",
+    "project_id": "agil-gas",
+    "storage_bucket": "agil-gas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751171983315:android:98585ad7044e89c4",
+        "android_client_info": {
+          "package_name": "org.procodingtools.agingaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751171983315-osu7qo1c73qqn5h4qbgfppb8m48qdecd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.procodingtools.agingaz",
+            "certificate_hash": "ca0b50bdf888e262ec3fd658301f0a60348421a5"
+          }
+        },
+        {
+          "client_id": "751171983315-1qauhjng5g070d86qv4opv7eejlvvfcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPO6o2pA2Pr7AyBaaO-00GjV9gkp6JCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751171983315-1qauhjng5g070d86qv4opv7eejlvvfcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
