@@ -39,15 +39,15 @@ class _HomeState extends State<HomeScreen> with TickerProviderStateMixin {
 
     for (int i = 0; i < 3; i++) {
       Map<String, dynamic> map = Map();
-      map['title'] = i == 0 ? "Essance" : i == 1 ? "Durabilitée" : 'Kiosques';
+      map['title'] = i == 0 ? "essence" : i == 1 ? "Durabilitée" : 'Kiosques';
       map['icon'] = i == 0
           ? FontAwesomeIcons.gasPump
           : i == 1
               ? FontAwesomeIcons.tachometerAlt
               : FontAwesomeIcons.mapMarkedAlt;
       map['txt'] = i == 0
-          ? 'Notre essance est bon'
-          : i == 1 ? 'Notre essance est durable' : 'Consulter notre kiosques';
+          ? 'Le plus puissant'
+          : i == 1 ? 'La durabilité ultime' : 'Consulter notre kiosques';
       _list.add(map);
     }
 
