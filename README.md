@@ -16,7 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 **Page d'acceuil**
+<br/>
 <img src="https://github.com/procodingtools/Agil-Gaz/blob/master/screenshots/Screenshot_20200309-011654.png" width="350"/>
 
+<br/><br/>
 **La liste des points de vente**
+<br/>
 <img src="https://github.com/procodingtools/Agil-Gaz/blob/master/screenshots/Screenshot_20200309-011738.png" width="350"/>
